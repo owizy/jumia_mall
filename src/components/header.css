@@ -1,0 +1,52 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: black;
+}
+
+header h3{
+    color:white;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+}
+
+nav a{
+    color:white;
+}
+
+header span{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+header span{
+    color:white;
+}
+
+span small{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    color:white;
+    background-color: darkorange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bold;
+}
